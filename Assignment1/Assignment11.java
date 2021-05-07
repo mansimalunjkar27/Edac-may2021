@@ -10,10 +10,4 @@ class Assignment11
 		System.out.println("Area is ="+pi*r*r);
 	}
 }
-/* OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment11.java
 
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment11
-Perimeter is =47.100002
-Area is =176.62502
-*/

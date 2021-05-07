@@ -52,13 +52,3 @@ class Assignment18
 			return binary_prod_result;
 		}
 	}
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment18.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment18
-Input first number :
-10
-Input second number :
-11
-product of two numbers :110
-*/

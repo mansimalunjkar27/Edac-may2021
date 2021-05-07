@@ -12,12 +12,3 @@ public class Assignment5
 		System.out.println(+a+"*"+b+"="+c);
 	}
 }
-/*OUTPUT:
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment5.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment5
-Enter 2 number :
-10
-20
-10*20=200
-*/

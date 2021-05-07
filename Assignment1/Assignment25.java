@@ -18,10 +18,3 @@ public static void main(String[] args)
     System.out.print("Equivalent decimal number: " + decimal_num+"\n");
    }
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment25.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment25
-Input any octal number: 10
-Equivalent decimal number: 8
-*/

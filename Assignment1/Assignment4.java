@@ -20,12 +20,3 @@ class Assignment4
 		
 	}
 }
-/*OUTPUT: 
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment4.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment4
-43
-1
-19
-13
-*/

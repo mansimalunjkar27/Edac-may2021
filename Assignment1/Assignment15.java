@@ -21,16 +21,4 @@ class Assignment15
 		
 	}
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment15.java
 
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment15
-enter two character :
-10
-20
-s1 :10
-s2 :20
-After swapping
-s1 :20
-s2 :10
-*/

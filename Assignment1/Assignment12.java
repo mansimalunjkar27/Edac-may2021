@@ -13,13 +13,3 @@ class Assignment12
 		
 	}
 }
-/* OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment12.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment12
- enter number :
-10
-20
-30
-Average of three number : 20
-*/

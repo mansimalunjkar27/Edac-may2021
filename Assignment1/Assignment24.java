@@ -36,10 +36,3 @@ public static void main(String[] args)
  
     }
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment24.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment24
-Input a Binary Number : 1111
-Equivalent Octal Value of 1111 is :17
-*/

@@ -13,11 +13,3 @@ class Assignment2
 		
 	}
 }
-/* OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment2.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment2
- first number :74
- second number :36
- TEST DATA :110
-*/

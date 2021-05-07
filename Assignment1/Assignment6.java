@@ -23,17 +23,3 @@ class Assignment6
 		System.out.println(" 125 mod 24 : "+ans);
 	}
 }
-/*OUTPUT:
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment6.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment6
- enter First number :
-125
- enter Second number :
-24
- 125+24: 149
- 125-24: 101
- 125*24 : 3000
- 125/24 : 5
- 125 mod 24 : 5
-*/

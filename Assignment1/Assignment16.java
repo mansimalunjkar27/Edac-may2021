@@ -11,14 +11,3 @@ class Assignment16
 		System.out.println(" +----+ ");
 	}
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment16.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment16
- +""""+
-[| o o | ]
- |  ^  |
- | '_' |
- +----+
-
-*/

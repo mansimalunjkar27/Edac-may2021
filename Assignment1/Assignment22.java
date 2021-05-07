@@ -18,11 +18,3 @@ public class Assignment22 {
   System.out.println("Decimal Number: " + decimal);
  }
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment22.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment22
-Input a binary number: 101
-Decimal Number: 5
-
-*/

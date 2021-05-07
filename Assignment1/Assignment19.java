@@ -23,14 +23,3 @@ public class Assignment19
 		System.out.println("\n");
 	}
 }
-/*OUTPUT:
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment19.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment19
-Input a Decimal Number :
-5
-Binary number is :
-1
-0
-1
-*/

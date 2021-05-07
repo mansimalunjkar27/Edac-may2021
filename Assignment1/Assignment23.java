@@ -33,10 +33,3 @@ public class Assignment23 {
   }
  }
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment23.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment23
-Input a Binary Number: 1111
-HexaDecimal value: F
-*/

@@ -9,10 +9,3 @@ class Assignmet1
 }
 
 
-/* OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignmet1.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignmet1
- Hello
- Mansi Pandharinath Malunjkar
- */

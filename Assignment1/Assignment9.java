@@ -14,9 +14,3 @@ class Assignment9
 		
 	}
 }
-/*OUTPUT:
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment9.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment9
-Expected output is =2.1388888
-*/

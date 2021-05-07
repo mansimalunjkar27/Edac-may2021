@@ -25,10 +25,3 @@ public class Assignment20
         System.out.print("Hexadecimal number is : "+hexdec_num+"\n");         
     }
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment20.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment20
-Input a decimal number: 12
-Hexadecimal number is : C
-*/

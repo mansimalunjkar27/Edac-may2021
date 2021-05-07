@@ -18,9 +18,3 @@ class Assignment10
 		
 	}
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment10.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment10
-Expected output is =-5.252526
-*/

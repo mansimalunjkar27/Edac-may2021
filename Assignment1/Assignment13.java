@@ -15,10 +15,3 @@ class Assignment13
 		System.out.println("Perimeter is 2 * (5.6 + 8.5) = "+peri);
 	}
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment13.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment13
-Area is 5.6* 8.5 = 47.6
-Perimeter is 2 * (5.6 + 8.5) = 28.2
-*/

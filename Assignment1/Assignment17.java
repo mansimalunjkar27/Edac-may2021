@@ -33,16 +33,3 @@ class Assignment17
 		System.out.println("\n");
 	}
 }
-/*OUTPUT :
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment17.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment17
-Input first number :
-10
-Input second number :
-11
-Sum of two numbers :
-1
-0
-1
-*/

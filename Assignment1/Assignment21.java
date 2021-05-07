@@ -27,11 +27,3 @@ public class Assignment21
 		System.out.print("\n");
     }
 }
-/*OUTPUT :
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>javac Assignment21.java
-
-C:\Users\MANSI\OneDrive\Desktop\cdac\practical_section>java Assignment21
-Input a Decimal Number: 15
-Octal number is: 17
-*/
